@@ -1,4 +1,4 @@
-# Project Name
+# AU Personal Portfolio
 
 > One paragraph statement about the project.
 
@@ -6,10 +6,10 @@
 
 Additional description about the project and its features.
 
-## Built With
+## HTML5, CSS3, and JavaScript
 
-- Major languages,
-- frameworks,
+- JavaScript,
+- React, Tailwind
 - technologies used
 
 ## Live Demo
